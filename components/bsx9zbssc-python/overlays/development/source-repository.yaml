@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bsx9zbssc-python-repository
+spec:
+  url: https://github.com/xjiangorg/bsx9zbssc-python
